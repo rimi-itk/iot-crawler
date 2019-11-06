@@ -2,7 +2,7 @@
 
 ## Data from devices in Aarhus
 
-Data form select devices in Aarhus is collected and available on https://citylab.itkdev.dk/.
+Data from select devices in Aarhus is collected and available on https://citylab.itkdev.dk/.
 
 ### API
 
